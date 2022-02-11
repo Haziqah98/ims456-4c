@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+	 <meta charset='UTF-8'>
+     <title>Personal Portfolio IMS456</title>
+     <link rel='stylesheet' href='style.css'>
+</head>
+
+<body>
+	<section id='header'>
+		<div class='header'>
+		    <img src='images/logo.png' class='logo'>
+		</div>
+		<div class='header-text'>
+			<h1><marquee>Hello!</marquee></h1>
+			<h2><i>My name is <u>Hanis</u>.</i></h2><br>			
+		    <h3>This personal portfolio website is my individual assignment for subject IMS 546. <br>This website includes my biodata, experience, educational background, and my family background. <br><br><br><h3><i>Hope you enjoy going through my website!</i></h3><br><br><br><br><br><br><br><br><br><br><br>
+	    </div>
+	</section>
+
+
+<!--about -->
+
+<section id='about'>
+	<div class='about'>
+		<img src='images/selfie.jpeg'>
+	</div>
+	<div class='about'>
+		<div class='about-text'>
+			<p>Assalamualaikum & selamat sejahtera.<br><br> My name is <b>Nur Hanis Haziqah bt Mohd Haswadi.</b><br> I am a full-time finance student BA242 at Uitm Kota Bharu, Kelantan.<br> Currently,I'm pursuing my study fully from home, ODL (Online Distance Learning).<br><br>Let's get to know me more!<br><br>Below are my personal biodata. Lets's go!<br><br><br><br><br><br>
+	        </div>
+	</div>
+
+<!--biodata -->
+<section id='biodata'>
+        <div class='biodata'>
+            <h4><i><u>BIODATA</u></i></h4><br>
+			Full name : Nur Hanis Haziqah bt Mohd Haswadi<br><br>
+			Age : 24 years old<br><br>
+			Born date & place : 27 April 1998/HUSM Kubang Kerian,Kelantan<br><br>
+		    Marital status : Single<br><br>
+			Home address : Lot 3440,Lorong depan kubur,Kg Pauh Ganja,16250 Wakaf Bharu,Kelantan.<br><br>
+			Email : nurhanishaziqah@gmail.com<br><br>
+			Phone no : 011-19296485<br><br><br><br>
+
+
+			<h4><i><u>EDUCATIONAL BACKGROUND</u></i></h4><br>
+			Primary school : SK Pasir Pekan,Kelantan<br><br>
+			Secondary school : SMK Mahmud Mahyidin,Pasir Pekan,Kelantan<br><br>
+			Higher education : Diploma in Business Management at Uitm Kelantan(Machang)<br><br>Bachelor of Degree in Finance at Uitm Kelantan(Kota Bharu)<br><br><br><br>
+
+			<h4><i><u>EXPERIENCE</u></i></h4><br>
+			1. Cashier : D5 Kota Bharu,Kelantan<br><br>
+			2. Sales assistant : Fyniee Boutique,KB Mall,Kota Bharu,Kelantan<br><br><br><br>
+
+			<h4><i><u>FAMILY MEMBERS</u></i></h4><br>
+			Father : Mohd Haswadi bin Omar (52 years old)<br><br>
+			Mother : Nor Hanita bt Ibrahim (51 years old)<br><br>
+			Oldest sister : Nurhasya Haziqah (26 years old)<br><br>
+			Me : Nur Hanis Haziqah (24 years old)<br><br>
+			Youngest sister : Nur Hani Haziqah (20 years old)<br><br><br><br><br>
+		</div>
+
+		<div class='biodata'>
+			<h5><i><u>IMAGE GALLERY</u></i></h5><br><br><br>
+			<img src='images/img1.jpg'>
+	        <img src='images/img4.jpg'>
+	        <img src='images/img5.jpg'>
+	        <img src='images/img7.jpg'>
+
+	        <img src='images/img8.jpg'>
+	        <img src='images/img10.jpg'>
+	        
+
+	        <img src='images/img15.jpg'>
+	        
+	        <img src='images/img3.jpg'>
+	        
+	        
+	        <img src='images/img13.jpg'>
+	        <img src='images/img6.jpg'>
+	        <img src='images/img9.jpg'>
+	        <img src='images/img11.jpg'>
+	    </div>
+	</section>
+
+</section>
+</body>
+</html>
+
+
+
+
